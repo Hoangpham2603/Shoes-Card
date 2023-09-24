@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shoes-Card/static/css/main.21f2d1db.css",
+    "main.js": "/Shoes-Card/static/js/main.68fbc051.js",
+    "static/media/nike.png": "/Shoes-Card/static/media/nike.2639247c1b1f7b834493.png",
+    "static/media/logo.svg": "/Shoes-Card/static/media/logo.a452a8dd5c493ce6e62e2c80e3598443.svg",
+    "index.html": "/Shoes-Card/index.html",
+    "main.21f2d1db.css.map": "/Shoes-Card/static/css/main.21f2d1db.css.map",
+    "main.68fbc051.js.map": "/Shoes-Card/static/js/main.68fbc051.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f2d1db.css",
+    "static/js/main.68fbc051.js"
+  ]
+}
